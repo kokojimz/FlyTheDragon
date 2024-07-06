@@ -17,6 +17,13 @@ Directional Light:
 </ul>
 This lighting setup provides uniform light and soft shadows on the 3D dragon, creating a more natural and realistic appearance.
 
+## How to use it?
+<ol>
+  <li>Open the "Builds" folder, download the "FlyTheDragon.apk" file, and install it on your Android device.</li>
+  <li>After successfully installing the APK, scan the target image.</li>
+  <li>The red dragon will appear on your screen, and you can control the dragon now.</li>
+</ol>
+
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 
@@ -27,7 +34,8 @@ This lighting setup provides uniform light and soft shadows on the 3D dragon, cr
 https://github.com/kokojimz/3dShapeCalculator/assets/93468154/ef3c0bda-583e-4972-8c4a-188c4913b497
 
 
-
+## Target Image
+![red_dragon](https://github.com/kokojimz/FlyTheDragon/assets/93468154/cf2a225b-2a1f-46a3-a720-0421a036d7d9)
 
 ## Developed by
 ```
